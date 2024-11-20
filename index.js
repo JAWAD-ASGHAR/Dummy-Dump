@@ -79,6 +79,31 @@ function dumpUser(length) {
     : [];
 }
 
+function dumpProduct() {
+    return length > 0
+    ? Array.from({ length }, (_, index) => {
+        const id = index + 1;
+        
+        const createdAt = createCreatedAt();
+        return {
+          id,
+          firstName,
+          lastName,
+          username: createUserName(firstName, lastName),
+          email: createEmail(firstName, lastName),
+          fullName: `${firstName} ${lastName}`,
+          address: getAddress(),
+          phone: getPhoneNumber(),
+          dateOfBirth: DOB.toDateString(),
+          age: createAge(DOB),
+          role: getRole(),
+          createdAt,
+          updatedAt: createUpdatedAt(createdAt),
+        };
+      })
+    : [];
+}
+
 module.exports = {
   dumpFirstName,
   dumpLastName,
