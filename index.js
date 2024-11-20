@@ -3,11 +3,16 @@ import {
   getEmail,
   getFirstName,
   getLastName,
+  getPhoneNumber,
   getProfession,
   getRole,
   getUserName,
 } from "./Func/publicUseFunctions.js";
-import { createEmail, createUserName } from "./Func/selfUsedFunctions.js";
+import {
+  createCreatedAt,
+  createEmail,
+  createUserName,
+} from "./Func/selfUsedFunctions.js";
 
 function dumpFirstName(length) {
   return length > 0 ? Array.from({ length }, () => getFirstName()) : [];
@@ -54,6 +59,7 @@ function dumpUser(length) {
         const firstName = getFirstName();
         const lastName = getLastName();
         const DOB = getDateOfBirth();
+        const createdAt = createCreatedAt();
         return {
           id,
           firstName,
@@ -62,9 +68,12 @@ function dumpUser(length) {
           email: createEmail(firstName, lastName),
           fullName: `${firstName} ${lastName}`,
           address: getAddress(),
+          phone: getPhoneNumber(),
           dateOfBirth: DOB.toDateString(),
           age: createAge(DOB),
           role: getRole(),
+          createdAt,
+          updatedAt: createUpdatedAt(createdAt),
         };
       })
     : [];

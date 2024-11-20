@@ -107,6 +107,15 @@ function getEmail() {
   return getRandomItem(patterns);
 }
 
+function getPhoneNumber(code = "1") {
+  const countryCode = "+" + code; 
+  const areaCode = Math.floor(100 + Math.random() * 900); 
+  const centralOfficeCode = Math.floor(100 + Math.random() * 900); 
+  const lineNumber = Math.floor(1000 + Math.random() * 9000); 
+
+  return `${countryCode} (${areaCode}) ${centralOfficeCode}-${lineNumber}`;
+}
+
 export {
   getFirstName,
   getLastName,
@@ -117,5 +126,6 @@ export {
   getDateOfBirth,
   getRole,
   getProfession,
+  getPhoneNumber,
 };
 
