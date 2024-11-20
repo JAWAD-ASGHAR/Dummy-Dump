@@ -1,0 +1,23 @@
+{
+  "name": "dummy-dump",
+  "version": "1.0.0",
+  "description": "Get the dummy data you need for your testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JAWAD-ASGHAR/Dummy-Dump.git"
+  },
+  "keywords": [
+    "dummy",
+    "data"
+  ],
+  "author": "Jawad Asghar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JAWAD-ASGHAR/Dummy-Dump/issues"
+  },
+  "homepage": "https://github.com/JAWAD-ASGHAR/Dummy-Dump#readme"
+}
