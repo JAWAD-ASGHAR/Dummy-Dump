@@ -1,3 +1,5 @@
+# Dummy Dump Package
+
 ## Overview
 
 `dummy-dump` is a Node.js utility package designed for generating dummy data for a wide variety of use cases. It provides pre-configured functions to create fake data such as user profiles, orders, products, and more, making it ideal for development and testing purposes.
