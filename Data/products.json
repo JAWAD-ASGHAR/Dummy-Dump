@@ -11,7 +11,8 @@
         "comment": "Bright and long-lasting. Excellent product!",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://images.thdstatic.com/productImages/47053fc5-458b-49bf-a4ea-34b4d1a3e849/svn/ecosmart-led-light-bulbs-11a19060w5cct01-d4_600.jpg"
   },
   {
     "name": "Organic Cotton T-Shirt",
@@ -25,7 +26,8 @@
         "comment": "Great quality, very comfortable.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://cloud.nnormal.com/is/image/JGVzaG9wMDNtYmlnZ3JleSQ=/N2CUTS1-003_TF.jpg"
   },
   {
     "name": "Bluetooth Alarm Clock",
@@ -39,7 +41,8 @@
         "comment": "Good sound quality and handy features.",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61hPtAZxvpL._AC_UF894,1000_QL80_.jpg"
   },
   {
     "name": "Stainless Steel Travel Mug",
@@ -53,7 +56,8 @@
         "comment": "Perfect for my daily coffee runs!",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71IFj8OUVTL.jpg"
   },
   {
     "name": "Adjustable Office Chair",
@@ -67,7 +71,8 @@
         "comment": "Great support for long working hours.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61hzqDQFvDL._AC_UF894,1000_QL80_.jpg"
   },
   {
     "name": "Gaming Mouse",
@@ -81,7 +86,8 @@
         "comment": "Good performance, though RGB isn't very bright.",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/0b95c18a-a2d4-493b-9bd9-a36df67b6c7b.jpg"
   },
   {
     "name": "Smart Fitness Band",
@@ -95,12 +101,13 @@
         "comment": "Great for keeping me motivated to stay active.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/Pk5ydxYo6ty2Q4SX9vznP6.jpg"
   },
   {
     "name": "Noise-Canceling Headphones",
     "description": "Comfortable over-ear headphones with active noise cancellation.",
-    "price": 120.0,
+    "price": 120,
     "stock": 30,
     "rating": 4.9,
     "reviews": [
@@ -109,7 +116,8 @@
         "comment": "Amazing sound and excellent noise cancellation.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61Jaj+db5HL.jpg"
   },
   {
     "name": "Kitchen Knife Set",
@@ -123,7 +131,8 @@
         "comment": "Sharp and durable, great addition to my kitchen.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "http://seidoknives.com/cdn/shop/products/AwabiDamascusChefKnifeSet-8771.jpg?v=1655268247"
   },
   {
     "name": "Inflatable Camping Mattress",
@@ -137,7 +146,8 @@
         "comment": "Very comfortable and easy to carry.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61vic3xk2JL._AC_UF894,1000_QL80_.jpg"
   },
   {
     "name": "Bluetooth Wireless Headphones",
@@ -151,7 +161,8 @@
         "comment": "Excellent sound quality and comfortable fit.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/51yYK4RGtLL.jpg"
   },
   {
     "name": "Stainless Steel Water Bottle",
@@ -165,7 +176,8 @@
         "comment": "Great for keeping my water cold all day!",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/517NxAIGK9L.jpg"
   },
   {
     "name": "Ergonomic Office Chair",
@@ -179,7 +191,8 @@
         "comment": "Very comfortable and easy to assemble.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/81HznWNJPnL.jpg"
   },
   {
     "name": "Portable Power Bank",
@@ -193,7 +206,8 @@
         "comment": "Lightweight and charges my phone quickly.",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71d6xPExgVL._AC_UF894,1000_QL80_.jpg"
   },
   {
     "name": "Non-Stick Frying Pan",
@@ -207,7 +221,8 @@
         "comment": "Cooks evenly and is easy to clean.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "http://cookdinehost.com/cdn/shop/files/web-MAKO_New-Genius-Range_Non-Stick-Frying-Pan_on-white-37_EDITED.jpg?v=1719987738&width=1200"
   },
   {
     "name": "LED Desk Lamp",
@@ -221,7 +236,8 @@
         "comment": "Great for studying and looks sleek.",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/513Mqx+kK+L.jpg"
   },
   {
     "name": "Smart Plug",
@@ -235,7 +251,8 @@
         "comment": "Works perfectly with my Alexa setup.",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/711nxnsm6nL._AC_UF1000,1000_QL80_.jpg"
   },
   {
     "name": "Fitness Tracker Watch",
@@ -249,7 +266,8 @@
         "comment": "Stylish and keeps me motivated to stay active.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://cdn.vox-cdn.com/thumbor/MshSJ5rL-aUJkEk4dnATU1Hu2Ng=/0x0:2040x1360/1400x1400/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23336503/acastro_220321_5092_0001.jpg"
   },
   {
     "name": "Memory Foam Pillow",
@@ -263,7 +281,8 @@
         "comment": "Extremely comfortable and supportive for my neck.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71qy+SbRUgL._AC_UF894,1000_QL80_.jpg"
   },
   {
     "name": "Wireless Charging Pad",
@@ -277,7 +296,8 @@
         "comment": "Charges my phone quickly and is very convenient.",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/HR1B2?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1694703899249"
   },
   {
     "name": "Electric Kettle",
@@ -291,7 +311,8 @@
         "comment": "Heats up water fast and looks modern.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71zJShDoPsL.jpg"
   },
   {
     "name": "Laptop Backpack",
@@ -305,7 +326,8 @@
         "comment": "Very durable and perfect for commuting.",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "https://www.dicota.com/media/catalog/product/cache/db2b61cd4da3695e00a6721f7c8b9b99/d/3/d32016-rpet_01.jpg"
   },
   {
     "name": "Wireless Earbuds",
@@ -319,7 +341,8 @@
         "comment": "Excellent sound quality and stays in place during workouts.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MUVX3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1713296133678"
   },
   {
     "name": "Ceramic Coffee Mug",
@@ -333,7 +356,8 @@
         "comment": "Perfect size for my morning coffee.",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61XetxAKPEL._AC_UF894,1000_QL80_.jpg"
   },
   {
     "name": "Digital Alarm Clock",
@@ -347,7 +371,8 @@
         "comment": "Simple to use and the USB port is a great feature.",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2021/04/alarmclocks-2048px-0S1A7721.jpg"
   },
   {
     "name": "Compact Air Purifier",
@@ -361,7 +386,8 @@
         "comment": "Quiet and does an excellent job improving air quality.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/m/xiaomi-smart-air-purifier-4-compact/3d38a4f14d88ba3c0d860fccc54981f7.jpg"
   },
   {
     "name": "Cordless Handheld Vacuum",
@@ -375,7 +401,8 @@
         "comment": "Convenient for quick clean-ups around the house.",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "https://i5.walmartimages.com/seo/IonVac-PowerMax-Hand-Vacuum-5V-Cordless-Handheld-Vacuum-Cleaner-with-USB-Charging-and-Multiple-Attachments-New_71d24526-8cd1-475e-b21b-ccfab5537915.98b71fa2e2cdf104855d0ea2c110a00c.jpeg"
   },
   {
     "name": "Yoga Mat",
@@ -389,7 +416,8 @@
         "comment": "Great grip and comfortable thickness for yoga.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://www.manduka.com/cdn/shop/files/184011682_GRPADAPT5MM-71-PURPLEHAZE_01.jpg?v=1722384705&width=1500"
   },
   {
     "name": "Electric Toothbrush",
@@ -403,7 +431,8 @@
         "comment": "Leaves my teeth feeling super clean.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://static.independent.co.uk/2024/06/20/23/best%20electric%20toothbrush.png"
   },
   {
     "name": "Reusable Grocery Bags",
@@ -417,7 +446,8 @@
         "comment": "Strong and perfect for my weekly shopping.",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "https://environmentaldefence.ca/wp-content/uploads/2023/06/iStock-147041313-scaled.jpg"
   },
   {
     "name": "Smart Home Security Camera",
@@ -431,7 +461,8 @@
         "comment": "Great for monitoring my home during the night.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://www.gensecurity.com/hubfs/Blog/White%20male%20adjusting%20smart%20camera%20and%20monitoring%20camera%20on%20his%20phone%20on%20the%20couch.jpg"
   },
   {
     "name": "Portable Bluetooth Speaker",
@@ -445,7 +476,8 @@
         "comment": "Great for listening to music on the go.",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "https://i.rtings.com/assets/pages/bKL4AtS9/best-portable-bluetooth-speakers-20231026-medium.jpg?format=auto"
   },
   {
     "name": "Adjustable Dumbbells",
@@ -459,7 +491,8 @@
         "comment": "Super convenient and easy to adjust.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61jau6tusOL._AC_UF1000,1000_QL80_.jpg"
   },
   {
     "name": "UV-C Sanitizer Box",
@@ -473,7 +506,8 @@
         "comment": "Perfect for keeping my phone germ-free.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61LunHOMbWS._AC_UF894,1000_QL80_.jpg"
   },
   {
     "name": "Wireless Keyboard and Mouse Combo",
@@ -487,7 +521,8 @@
         "comment": "Smooth performance and good battery life.",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "https://resource.logitech.com/w_386,ar_1.0,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/logitech/en/products/combos/mk235/gallery/mk235-gallery-01-new.png?v=1"
   },
   {
     "name": "Foam Roller",
@@ -501,7 +536,8 @@
         "comment": "Really helps with post-workout soreness.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71w51igPVyL._AC_UF1000,1000_QL80_.jpg"
   },
   {
     "name": "Pet Camera with Treat Dispenser",
@@ -515,7 +551,8 @@
         "comment": "Keeps my dog entertained while I’m at work.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/31+cYlMFqDL._AC_.jpg"
   },
   {
     "name": "Collapsible Travel Mug",
@@ -529,7 +566,8 @@
         "comment": "Lightweight and perfect for travel.",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/51luReLE8YL._AC_UF894,1000_QL80_.jpg"
   },
   {
     "name": "Digital Meat Thermometer",
@@ -543,7 +581,8 @@
         "comment": "Quick and accurate temperature readings.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61fUKA2fwzL.jpg"
   },
   {
     "name": "Kids' Art Easel",
@@ -557,7 +596,8 @@
         "comment": "My kids love drawing on it for hours!",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71sszTNTYGL.jpg"
   },
   {
     "name": "Plant Grow Light",
@@ -571,7 +611,8 @@
         "comment": "Perfect for my indoor herbs.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://soltech.com/cdn/shop/files/Aspect_Grow_Light_Gift_Set_-_White1_1200x.webp?v=1718822160"
   },
   {
     "name": "Smart Doorbell",
@@ -585,7 +626,8 @@
         "comment": "Easy to set up and great picture quality.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2023/09/smart-doorbell-camera-2048px-0033.jpg?auto=webp&quality=75&width=1024"
   },
   {
     "name": "Bamboo Cheese Board Set",
@@ -599,7 +641,8 @@
         "comment": "Beautiful and functional for hosting parties.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://bamboocraft.ng/wp-content/uploads/2023/05/img_1117.jpeg"
   },
   {
     "name": "Portable Camping Lantern",
@@ -613,7 +656,8 @@
         "comment": "Bright and lasts all night on a single charge.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61f1GG1wY2L.jpg"
   },
   {
     "name": "Adjustable Standing Desk Converter",
@@ -627,7 +671,8 @@
         "comment": "Great for my back and easy to use.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/81elY0hRUiL.jpg"
   },
   {
     "name": "Mini Projector",
@@ -641,7 +686,8 @@
         "comment": "Amazing picture quality for the price.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/618klqnYCGL.jpg"
   },
   {
     "name": "Acupressure Mat and Pillow Set",
@@ -655,7 +701,8 @@
         "comment": "Feels great after a long day.",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "http://wthn.com/cdn/shop/products/AculeadPDPimage.jpg?v=1648752752"
   },
   {
     "name": "Cordless Electric Screwdriver",
@@ -669,7 +716,8 @@
         "comment": "Makes small DIY jobs so much easier.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/915sfEug5CL.jpg"
   },
   {
     "name": "Magnetic Spice Rack",
@@ -683,7 +731,8 @@
         "comment": "Looks great and saves counter space.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/719PXV8xgEL._AC_UF894,1000_QL80_.jpg"
   },
   {
     "name": "Electric Milk Frother",
@@ -697,7 +746,8 @@
         "comment": "Works perfectly for my morning cappuccino.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://d9pl0lig74xnv.cloudfront.net/catalog/product/cache/91e9c011f0ac998e686df01a906b8401/1/2/12179-01.jpg"
   },
   {
     "name": "Portable Hammock",
@@ -711,7 +761,8 @@
         "comment": "Easy to set up and very comfortable.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71rJeW16kFL.jpg"
   },
   {
     "name": "Desktop Cable Organizer",
@@ -725,7 +776,8 @@
         "comment": "Keeps my desk so much cleaner.",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "https://i.ytimg.com/vi/Ev5WlacPgus/maxresdefault.jpg"
   },
   {
     "name": "Electric Heated Blanket",
@@ -739,7 +791,8 @@
         "comment": "Keeps me warm and cozy all night.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/714as2b3UnL._AC_UF894,1000_QL80_.jpg"
   },
   {
     "name": "Portable Bluetooth Speaker",
@@ -753,7 +806,8 @@
         "comment": "Great sound and perfect for outdoor use.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://i.rtings.com/assets/pages/bKL4AtS9/best-portable-bluetooth-speakers-20231026-medium.jpg?format=auto"
   },
   {
     "name": "Expandable Garden Hose",
@@ -767,7 +821,8 @@
         "comment": "Lightweight and easy to store.",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/81QaXgqRZNL.jpg"
   },
   {
     "name": "Portable Photo Printer",
@@ -781,7 +836,8 @@
         "comment": "Compact and prints good quality photos.",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/best-portable-photo-printers-64f8937f045ea.jpg"
   },
   {
     "name": "Digital Luggage Scale",
@@ -795,7 +851,8 @@
         "comment": "Accurate and super easy to use.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61yR-WKQCaL._AC_UY1000_.jpg"
   },
   {
     "name": "Ceramic Space Heater",
@@ -809,7 +866,8 @@
         "comment": "Heats up my room quickly and safely.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://images.thdstatic.com/productImages/bf910d49-d2e3-44a4-a725-75cff906e69c/svn/gray-lasko-ceramic-heaters-754200-64_600.jpg"
   },
   {
     "name": "Adjustable Laptop Stand",
@@ -823,7 +881,8 @@
         "comment": "Perfect for working at eye level.",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/715pvx8UWrL.jpg"
   },
   {
     "name": "Electric Wine Opener",
@@ -837,7 +896,8 @@
         "comment": "Makes opening wine bottles effortless.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "http://www.rabbitwine.com/cdn/shop/files/Rabbit-5308659-AutomaticElectricCorkscrew-1260px_1.jpg?v=1697049826&width=2048"
   },
   {
     "name": "Noise-Canceling Sleep Mask",
@@ -851,7 +911,8 @@
         "comment": "Blocks out light and helps me fall asleep to music.",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "http://mantasleep.com/cdn/shop/products/SOUND-Buy-Box-1.png?v=1668066974"
   },
   {
     "name": "Digital Kitchen Scale",
@@ -865,7 +926,8 @@
         "comment": "Perfect for baking and meal prep.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://www.lemproducts.com/images/popup/1665_RHDigitalScale_WEB.jpg"
   },
   {
     "name": "Camping Cookware Set",
@@ -879,7 +941,8 @@
         "comment": "Compact and easy to carry in my backpack.",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/711gSizvwnL._AC_UF1000,1000_QL80_.jpg"
   },
   {
     "name": "Magnetic Dry Erase Calendar",
@@ -893,7 +956,8 @@
         "comment": "Great for keeping track of family schedules.",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71nED8lt7iL.jpg"
   },
   {
     "name": "Foldable Step Stool",
@@ -907,7 +971,8 @@
         "comment": "Sturdy and takes up little space.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71WaWnZxidL.jpg"
   },
   {
     "name": "Car Phone Mount",
@@ -921,7 +986,8 @@
         "comment": "Holds my phone securely even on bumpy roads.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2023/09/carphonemounts-2048px-6441.jpg?auto=webp&quality=75&width=1024"
   },
   {
     "name": "Rechargeable Book Light",
@@ -935,7 +1001,8 @@
         "comment": "Great for reading at night without disturbing others.",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71kJSuSgd9L._AC_UF894,1000_QL80_.jpg"
   },
   {
     "name": "Silicone Baking Mats",
@@ -949,7 +1016,8 @@
         "comment": "No more parchment paper, and cleanup is so easy!",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71g5uNliHRL.jpg"
   },
   {
     "name": "Electric Wine Opener",
@@ -963,7 +1031,8 @@
         "comment": "Makes opening wine bottles so effortless!",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "http://www.rabbitwine.com/cdn/shop/files/Rabbit-5308659-AutomaticElectricCorkscrew-1260px_1.jpg?v=1697049826&width=2048"
   },
   {
     "name": "Air Fryer",
@@ -977,7 +1046,8 @@
         "comment": "Crispy fries every time without the oil.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71+8uTMDRFL.jpg"
   },
   {
     "name": "Wireless Doorbell",
@@ -991,7 +1061,8 @@
         "comment": "Loud and easy to install.",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/513u9Ev9aYL._AC_UF894,1000_QL80_.jpg"
   },
   {
     "name": "Memory Foam Seat Cushion",
@@ -1005,7 +1076,8 @@
         "comment": "Very comfortable for long work hours.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71YxRCAi-fS._AC_UF894,1000_QL80_.jpg"
   },
   {
     "name": "Electric Kettle",
@@ -1019,7 +1091,8 @@
         "comment": "Heats water fast and looks sleek.",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71zJShDoPsL.jpg"
   },
   {
     "name": "Silicone Baking Mats",
@@ -1033,7 +1106,8 @@
         "comment": "A lifesaver for baking cookies!",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71g5uNliHRL.jpg"
   },
   {
     "name": "Desktop Organizer",
@@ -1047,7 +1121,8 @@
         "comment": "Keeps my desk clutter-free.",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71e5KWJkTEL.jpg"
   },
   {
     "name": "Smart LED Bulbs",
@@ -1061,7 +1136,8 @@
         "comment": "Love the variety of colors and settings.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://blaupunkt.com/wp-content/uploads/2021/11/Image1.png"
   },
   {
     "name": "Cordless Hair Trimmer",
@@ -1075,7 +1151,8 @@
         "comment": "Very precise and easy to use.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/81wx9EQn75L._AC_UF1000,1000_QL80_.jpg"
   },
   {
     "name": "Electric Toothbrush",
@@ -1089,7 +1166,8 @@
         "comment": "Leaves my teeth feeling super clean.",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "https://static.independent.co.uk/2024/06/20/23/best%20electric%20toothbrush.png"
   },
   {
     "name": "Foldable Laptop Stand",
@@ -1103,7 +1181,8 @@
         "comment": "Perfect for working on the go.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71cnkzw9ORL.jpg"
   },
   {
     "name": "Reusable Water Bottles",
@@ -1117,7 +1196,8 @@
         "comment": "Great for daily hydration.",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "https://cleanwater.org/sites/default/files/2023-07/ReThink%20Disposable-PlasticFreeJuly-NJ.png"
   },
   {
     "name": "Magnetic Phone Mount",
@@ -1131,7 +1211,8 @@
         "comment": "Holds my phone securely even on bumpy roads.",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "https://www.scosche.com/media/catalog/product/m/a/magdm_icon_1000_cf_2_1_2.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700"
   },
   {
     "name": "Non-Stick Wok",
@@ -1145,7 +1226,8 @@
         "comment": "Cooks stir-fry evenly and cleans easily.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://www.greenpan.us/cdn/shop/products/CW0004251-1.jpg?v=1618495931"
   },
   {
     "name": "Sound Machine for Sleep",
@@ -1159,7 +1241,8 @@
         "comment": "Helps me fall asleep so quickly.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://images.everydayhealth.com/images/sleep-disorders/sleep/can-a-sound-machine-help-me-sleep-better-alt-1440x810.jpg"
   },
   {
     "name": "Portable Mini Blender",
@@ -1173,7 +1256,8 @@
         "comment": "Compact and blends really well.",
         "rating": 4
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/716iF4+GMfL.jpg"
   },
   {
     "name": "Laptop Sleeve",
@@ -1187,7 +1271,8 @@
         "comment": "Great protection for my laptop.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://berliner-bags.com/cdn/shop/products/LaptopSleeveVintage13_5.jpg?height=2000&v=1658144309&width=2000"
   },
   {
     "name": "Stainless Steel Mixing Bowls",
@@ -1201,7 +1286,8 @@
         "comment": "Perfect for baking and meal prep.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_1e3a7d9a-81e2-4e6a-b872-ee9bb2d02f0b?wid=488&hei=488&fmt=pjpeg"
   },
   {
     "name": "Electric Facial Cleansing Brush",
@@ -1215,7 +1301,8 @@
         "comment": "Leaves my skin feeling so soft and clean.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61Abqs78yGL._AC_UF1000,1000_QL80_.jpg"
   },
   {
     "name": "Kitchen Knife Set",
@@ -1229,6 +1316,1837 @@
         "comment": "Super sharp and very durable.",
         "rating": 5
       }
-    ]
+    ],
+    "imageUrl": "http://seidoknives.com/cdn/shop/products/AwabiDamascusChefKnifeSet-8771.jpg?v=1655268247"
+  },
+  {
+    "name": "Rechargeable Hand Vacuum",
+    "description": "Cordless vacuum with powerful suction.",
+    "price": 39.99,
+    "stock": 70,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Gabriel Brooks",
+        "comment": "Great for quick cleanups.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71GZ7EaBsWL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "name": "Gaming Mouse Pad",
+    "description": "Large, high-quality gaming mouse pad.",
+    "price": 29.99,
+    "stock": 120,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "reviewer": "Logan Martin",
+        "comment": "Perfect for gaming.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://www.thermaltake.com/media/catalog/product/cache/cc8b24283b13da6bc2ff91682c03b54b/l/2/l20mousepad01.jpg"
+  },
+  {
+    "name": "Portable Air Conditioner",
+    "description": "Compact, energy-efficient air conditioner.",
+    "price": 99.99,
+    "stock": 80,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "reviewer": "Ava Martin",
+        "comment": "Keeps my room cool even in the summer.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://media.us.lg.com/transform/225b95be-662c-40a9-9d64-cfa0ce4cd5a2/OBS_PLP_portable_air_conditioners_herobanner_768x1200"
+  },
+  {
+    "name": "Wireless Earbuds",
+    "description": "Bluetooth earbuds with excellent sound quality.",
+    "price": 59.99,
+    "stock": 150,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "reviewer": "Olivia Thompson",
+        "comment": "Great sound and comfortable fit.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MUVX3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1713296133678"
+  },
+  {
+    "name": "Smart Light Bulb",
+    "description": "Wi-Fi enabled bulb with adjustable brightness.",
+    "price": 22.99,
+    "stock": 200,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Liam Johnson",
+        "comment": "Easy to set up and control via app.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://blaupunkt.com/wp-content/uploads/2021/11/Image1.png"
+  },
+  {
+    "name": "Robotic Vacuum Cleaner",
+    "description": "Automatic vacuum with smart navigation.",
+    "price": 199.99,
+    "stock": 50,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "reviewer": "Emma Davis",
+        "comment": "Saves me so much time with cleaning.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://static.tp-link.com/upload/blog/female-feet-rechargeable-vacuum-cleaner_20221130092400w.jpg"
+  },
+  {
+    "name": "Smart Thermostat",
+    "description": "Programmable thermostat with remote access.",
+    "price": 129.99,
+    "stock": 60,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "reviewer": "Noah Wilson",
+        "comment": "Keeps my home at the perfect temperature.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2022/11/smartthermostats-2048px-3105.jpg"
+  },
+  {
+    "name": "4K Action Camera",
+    "description": "Waterproof camera for capturing action-packed moments.",
+    "price": 149.99,
+    "stock": 30,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Sophia Martinez",
+        "comment": "Perfect for my adventures.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://i.ytimg.com/vi/O8DPeOyhlyI/sddefault.jpg"
+  },
+  {
+    "name": "Electric Kettle",
+    "description": "Stainless steel kettle with quick boil feature.",
+    "price": 39.99,
+    "stock": 100,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "reviewer": "Mason Garcia",
+        "comment": "Boils water super fast!",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71zJShDoPsL.jpg"
+  },
+  {
+    "name": "Instant Pot",
+    "description": "Multi-use pressure cooker for fast and easy meals.",
+    "price": 89.99,
+    "stock": 70,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "reviewer": "Isabella Rodriguez",
+        "comment": "Makes cooking a breeze.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://instantpot.com/cdn/shop/products/IB_112-0170-01_113-0059-01_Duo-V5-6QT-8QT_ATF_Square_Tile1.jpg?v=1707411077&width=2048"
+  },
+  {
+    "name": "Smart Doorbell",
+    "description": "Video doorbell with motion detection.",
+    "price": 99.99,
+    "stock": 120,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "reviewer": "Lucas Lee",
+        "comment": "Feel much safer with this at my door.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2023/09/smart-doorbell-camera-2048px-0033.jpg?auto=webp&quality=75&width=1024"
+  },
+  {
+    "name": "Electric Griddle",
+    "description": "Non-stick griddle for pancakes and more.",
+    "price": 49.99,
+    "stock": 80,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Charlotte White",
+        "comment": "Cooks evenly and cleans easily.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://www.allrecipes.com/thmb/N4VgcbGb9-shxm786kwhekcbB6Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/alr-tier-3-primary-best-electric-griddles-ebrockob-001-2c327f4371b144bf89aae7d09776d2f0.jpeg"
+  },
+  {
+    "name": "Digital Picture Frame",
+    "description": "Wi-Fi frame displaying photos from cloud storage.",
+    "price": 79.99,
+    "stock": 90,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "reviewer": "Amelia Harris",
+        "comment": "Love seeing my photos come to life.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/718DGGMbhsL.jpg"
+  },
+  {
+    "name": "Portable Solar Charger",
+    "description": "Solar-powered charger for outdoor activities.",
+    "price": 29.99,
+    "stock": 100,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "reviewer": "William Clark",
+        "comment": "Perfect for my camping trips.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71ENU+RZhAL.jpg"
+  },
+  {
+    "name": "Noise-Canceling Ear Muffs",
+    "description": "Ear muffs for a quiet and peaceful experience.",
+    "price": 24.99,
+    "stock": 140,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "reviewer": "Avery Robinson",
+        "comment": "Great for studying in noisy environments.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://www.autism-products.com/wp-content/uploads/Quiet-Ears-Basic-Ear-Muffs.jpg"
+  },
+  {
+    "name": "Cordless Drill Set",
+    "description": "Drill with various bit attachments for home projects.",
+    "price": 79.99,
+    "stock": 60,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Elijah Walker",
+        "comment": "Powerful and easy to use.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71GhQ-RE6PL.jpg"
+  },
+  {
+    "name": "Electric Pressure Washer",
+    "description": "Compact washer for cleaning driveways and decks.",
+    "price": 149.99,
+    "stock": 40,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "reviewer": "Sophia Allen",
+        "comment": "Cuts through dirt effortlessly.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://images.thdstatic.com/productImages/279bb217-b5f9-48b2-8920-f99626042bb1/svn/ryobi-corded-electric-pressure-washers-ry141802-64_600.jpg"
+  },
+  {
+    "name": "Smart Alarm Clock",
+    "description": "Clock with sunrise simulation and music streaming.",
+    "price": 59.99,
+    "stock": 80,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Benjamin Young",
+        "comment": "Wakes me up gently every morning.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6114/6114602_sd.jpg"
+  },
+  {
+    "name": "Portable Projector Screen",
+    "description": "Foldable screen for outdoor movie nights.",
+    "price": 49.99,
+    "stock": 130,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "reviewer": "Mia King",
+        "comment": "Easy to set up and take down.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://www.draperinc.com/images/ProjectionScreens/500x500images/Diplomat_2023-09.webp"
+  },
+  {
+    "name": "Bluetooth Shower Speaker",
+    "description": "Waterproof speaker for music in the shower.",
+    "price": 29.99,
+    "stock": 150,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "reviewer": "Ethan Turner",
+        "comment": "Great sound even in the shower.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/714MEp0X2TL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "name": "Wireless Charging Station",
+    "description": "Station for charging multiple devices wirelessly.",
+    "price": 69.99,
+    "stock": 90,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "reviewer": "Avery Scott",
+        "comment": "Convenient for all my gadgets.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61xrWtJoIML.jpg"
+  },
+  {
+    "name": "Smart LED Bulb",
+    "description": "Color-changing LED bulb with app control.",
+    "price": 19.99,
+    "stock": 150,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "reviewer": "Jordan Lee",
+        "comment": "Adds ambiance to my room!",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://blaupunkt.com/wp-content/uploads/2021/11/Image1.png"
+  },
+  {
+    "name": "Noise Cancelling Headphones",
+    "description": "Over-ear headphones with active noise cancellation.",
+    "price": 129.99,
+    "stock": 75,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Taylor Morgan",
+        "comment": "Perfect for travel and work.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/51QeS0jkx-L._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "name": "Portable Power Bank",
+    "description": "Fast-charging power bank with 10,000mAh capacity.",
+    "price": 34.99,
+    "stock": 200,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "reviewer": "Sam Rivera",
+        "comment": "Compact and charges my phone quickly.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71d6xPExgVL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "description": "Waterproof speaker with high-quality sound.",
+    "price": 49.99,
+    "stock": 120,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "reviewer": "Alex Jordan",
+        "comment": "Great sound for outdoor parties.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://www.sencor.com/getmedia/6770caad-d0be-4d0d-b5f0-01bbc4c1c555/35059169.jpg.aspx?width=2100&height=2100&ext=.jpg"
+  },
+  {
+    "name": "Fitness Tracker Watch",
+    "description": "Tracks steps, heart rate, and sleep patterns.",
+    "price": 59.99,
+    "stock": 95,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "reviewer": "Jamie Clark",
+        "comment": "Helps me stay active every day.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://cdn.vox-cdn.com/thumbor/MshSJ5rL-aUJkEk4dnATU1Hu2Ng=/0x0:2040x1360/1400x1400/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23336503/acastro_220321_5092_0001.jpg"
+  },
+  {
+    "name": "Smart Doorbell Camera",
+    "description": "Wi-Fi-enabled doorbell with motion detection.",
+    "price": 99.99,
+    "stock": 60,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "reviewer": "Morgan Gray",
+        "comment": "Peace of mind for my home security.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2023/09/smart-doorbell-camera-2048px-0033.jpg"
+  },
+  {
+    "name": "Electric Toothbrush",
+    "description": "Rechargeable toothbrush with multiple cleaning modes.",
+    "price": 39.99,
+    "stock": 130,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Chris Bennett",
+        "comment": "My teeth feel cleaner than ever!",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://static.independent.co.uk/2024/06/20/23/best%20electric%20toothbrush.png"
+  },
+  {
+    "name": "4K Action Camera",
+    "description": "Compact camera for recording adventures in ultra HD.",
+    "price": 89.99,
+    "stock": 45,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "reviewer": "Riley Campbell",
+        "comment": "Great quality for the price.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://i.ytimg.com/vi/O8DPeOyhlyI/sddefault.jpg"
+  },
+  {
+    "name": "Wireless Earbuds",
+    "description": "True wireless earbuds with noise reduction.",
+    "price": 79.99,
+    "stock": 110,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "reviewer": "Charlie Walker",
+        "comment": "Super comfortable and sound great.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MUVX3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1713296133678"
+  },
+  {
+    "name": "Laptop Cooling Pad",
+    "description": "Cooling pad with adjustable fans for laptops.",
+    "price": 24.99,
+    "stock": 140,
+    "rating": 4.1,
+    "reviews": [
+      {
+        "reviewer": "Drew Howard",
+        "comment": "Keeps my laptop from overheating.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/81t9B5pBMBL.jpg"
+  },
+  {
+    "name": "Smart Plug",
+    "description": "Wi-Fi-enabled plug to control devices remotely.",
+    "price": 14.99,
+    "stock": 300,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Casey King",
+        "comment": "Easy to use and very convenient.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/711nxnsm6nL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Gaming Mouse",
+    "description": "Ergonomic gaming mouse with customizable buttons.",
+    "price": 29.99,
+    "stock": 90,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "reviewer": "Jordan Taylor",
+        "comment": "Perfect for gaming sessions.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/0b95c18a-a2d4-493b-9bd9-a36df67b6c7b.jpg"
+  },
+  {
+    "name": "Desk Organizer",
+    "description": "Multi-compartment organizer for workspace essentials.",
+    "price": 19.99,
+    "stock": 180,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "reviewer": "Parker Adams",
+        "comment": "My desk is finally clutter-free!",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71davshOLjL.jpg"
+  },
+  {
+    "name": "Robot Vacuum Cleaner",
+    "description": "Automated vacuum cleaner with scheduling feature.",
+    "price": 199.99,
+    "stock": 30,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "reviewer": "Harper Fisher",
+        "comment": "Cleans while I relax!",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://crowncleaners.org.uk/wp-content/uploads/2024/08/Robot_Vacuum_Cleaner-feature-image-blog.jpg"
+  },
+  {
+    "name": "Portable Projector",
+    "description": "Mini projector with HDMI and USB support.",
+    "price": 129.99,
+    "stock": 70,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "reviewer": "Kris Evans",
+        "comment": "Good for movie nights at home.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2024/02/portableminiprojectors-2048px-0348.jpg"
+  },
+  {
+    "name": "Ergonomic Chair",
+    "description": "Adjustable office chair with lumbar support.",
+    "price": 249.99,
+    "stock": 25,
+    "rating": 4.9,
+    "reviews": [
+      {
+        "reviewer": "Skylar Brooks",
+        "comment": "Game changer for my back pain.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://i5.walmartimages.com/seo/Mainstays-Ergonomic-Mesh-Back-Task-Office-Chair-with-Flip-up-Arms-Black-Fabric-275-lb_584c4cc5-fc4d-46d3-9a23-5a3fb5bb134e.6c681a1d24f26e9c017a3a011877e2d8.jpeg"
+  },
+  {
+    "name": "UV Sanitizer Box",
+    "description": "Box for sanitizing small items with UV light.",
+    "price": 49.99,
+    "stock": 100,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "reviewer": "Shawn Bell",
+        "comment": "Quick and easy to use.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61LunHOMbWS.jpg"
+  },
+  {
+    "name": "Smart Thermostat",
+    "description": "Energy-saving thermostat with app control.",
+    "price": 179.99,
+    "stock": 40,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "reviewer": "Kelly Wright",
+        "comment": "Lowered my energy bills significantly.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2022/11/smartthermostats-2048px-3105.jpg"
+  },
+  {
+    "name": "Electric Kettle",
+    "description": "Fast-boiling kettle with temperature settings.",
+    "price": 29.99,
+    "stock": 160,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Dylan Lee",
+        "comment": "Perfect for my morning tea.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71zJShDoPsL.jpg"
+  },
+  {
+    "name": "Digital Photo Frame",
+    "description": "Wi-Fi-enabled frame for displaying digital pictures.",
+    "price": 89.99,
+    "stock": 50,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "reviewer": "River Reed",
+        "comment": "Love seeing memories on display.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61CvqN5QEML.jpg"
+  },
+  {
+    "name": "Wireless Keyboard",
+    "description": "Compact Bluetooth keyboard for laptops and tablets.",
+    "price": 29.99,
+    "stock": 80,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "reviewer": "Jordan Ray",
+        "comment": "Great for working on the go.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/618gntt98eL.jpg"
+  },
+  {
+    "name": "Adjustable Laptop Stand",
+    "description": "Ergonomic laptop stand with adjustable height.",
+    "price": 34.99,
+    "stock": 120,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "reviewer": "Taylor Stone",
+        "comment": "Improved my posture while working.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/715pvx8UWrL.jpg"
+  },
+  {
+    "name": "Smartwatch",
+    "description": "Water-resistant smartwatch with fitness tracking.",
+    "price": 119.99,
+    "stock": 60,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Riley Morgan",
+        "comment": "Tracks all my activities seamlessly.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71pBtMd2vjL.jpg"
+  },
+  {
+    "name": "Wireless Charger Pad",
+    "description": "Sleek wireless charger compatible with most devices.",
+    "price": 24.99,
+    "stock": 200,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "reviewer": "Casey Hunter",
+        "comment": "Charges quickly and looks great.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "http://image.samsung.com/us/smartphones/galaxy-note9/accessories/wireless-charger-pad/black/EP-P3100_001_Front_Black_86639_080218.jpg"
+  },
+  {
+    "name": "Electric Standing Desk",
+    "description": "Adjustable standing desk with motorized height settings.",
+    "price": 399.99,
+    "stock": 20,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "reviewer": "Shawn Woods",
+        "comment": "A fantastic investment for my home office.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/616MxGP-GWL.jpg"
+  },
+  {
+    "name": "Portable Coffee Maker",
+    "description": "Compact coffee maker for single-serve brewing.",
+    "price": 59.99,
+    "stock": 100,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "reviewer": "Harper Lane",
+        "comment": "Perfect for quick coffee at work.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://ae01.alicdn.com/kf/S2fe77ca09935465c8c5abd042aab27a9E/HiBREW-Wireless-Electric-Portable-Espresso-Coffee-Machine-for-Car-Home-Camping-Coffee-Maker-Fit-Nespresso-Dolce.jpg"
+  },
+  {
+    "name": "LED Desk Lamp",
+    "description": "Dimmable LED lamp with touch controls and USB charging port.",
+    "price": 39.99,
+    "stock": 150,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "reviewer": "Skylar West",
+        "comment": "Stylish and functional.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/513Mqx+kK+L.jpg"
+  },
+  {
+    "name": "Noise Machine",
+    "description": "Portable white noise machine with multiple sound options.",
+    "price": 29.99,
+    "stock": 90,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "reviewer": "Kris Black",
+        "comment": "Helps me sleep better every night.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61XYX1tzoTL.jpg"
+  },
+  {
+    "name": "Cordless Hair Clipper",
+    "description": "Rechargeable hair clipper with precision cutting.",
+    "price": 49.99,
+    "stock": 70,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Alex Carter",
+        "comment": "Easy to use and very precise.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71eLvEEgPTL.jpg"
+  },
+  {
+    "name": "Home Security Camera",
+    "description": "Indoor camera with motion detection and two-way audio.",
+    "price": 79.99,
+    "stock": 80,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "reviewer": "Jamie Brooks",
+        "comment": "Provides clear footage and peace of mind.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://www.cnet.com/a/img/resize/0bf440fdfab75eb2b4bbf93c86d784ec790a13ae/hub/2024/01/30/53592a6d-02c9-4f8d-97c3-ac699c6fc7af/arlo-pro-5s-2k-installation1.jpg?auto=webp&height=500"
+  },
+  {
+    "name": "Electric Pressure Cooker",
+    "description": "Multi-functional cooker with pre-programmed settings.",
+    "price": 99.99,
+    "stock": 50,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "reviewer": "Morgan Kelly",
+        "comment": "Makes cooking so much easier!",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2023/09/pressure-cooker-2048px-9805.jpg"
+  },
+  {
+    "name": "Solar Power Bank",
+    "description": "Portable power bank with solar charging capability.",
+    "price": 39.99,
+    "stock": 120,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "reviewer": "Drew Taylor",
+        "comment": "Useful for outdoor adventures.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/81MiYNnpJkL.jpg"
+  },
+  {
+    "name": "Bluetooth Tracker",
+    "description": "Small tracker for finding lost items with an app.",
+    "price": 19.99,
+    "stock": 300,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "reviewer": "Jordan King",
+        "comment": "Saved me from losing my keys multiple times!",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2021/11/bluetoothtracker-2048px-3296.jpg"
+  },
+  {
+    "name": "Air Purifier",
+    "description": "Compact air purifier with HEPA filter.",
+    "price": 79.99,
+    "stock": 100,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Casey Evans",
+        "comment": "Great for reducing allergens in my room.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71-fUpapWfL.jpg"
+  },
+  {
+    "name": "Smart Light Strip",
+    "description": "Color-changing LED strip with voice control.",
+    "price": 29.99,
+    "stock": 150,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "reviewer": "Parker Stone",
+        "comment": "Transforms the mood of my room.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4a6a79f6-7b17-4d34-ac21-9631bf1ea129.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+  },
+  {
+    "name": "Compact Ice Maker",
+    "description": "Countertop ice maker with fast ice production.",
+    "price": 149.99,
+    "stock": 35,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "reviewer": "Harper Ray",
+        "comment": "Great for parties and daily use.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61Qf8Ztg1FL.jpg"
+  },
+  {
+    "name": "Streaming Webcam",
+    "description": "Full HD webcam with auto-focus and built-in microphone.",
+    "price": 59.99,
+    "stock": 90,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "reviewer": "Shawn Morgan",
+        "comment": "Perfect for video calls and streaming.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://resource.logitech.com/content/dam/logitech/en/products/webcams/streamcam/gallery/streamcam-gallery-1-graphite.png"
+  },
+  {
+    "name": "Portable Air Compressor",
+    "description": "Compact air compressor for inflating tires and more.",
+    "price": 49.99,
+    "stock": 60,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Taylor Woods",
+        "comment": "A must-have for road trips.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://i5.walmartimages.com/seo/Hyper-Tough-3-Gallon-Oil-Free-Portable-Air-Compressor-100PSI-Red_881a58f3-88f0-4594-843e-38a6a7eb25e0_2.d3ffabf1d58e50baf8b06b75494e8f18.jpeg"
+  },
+  {
+    "name": "Handheld Vacuum Cleaner",
+    "description": "Cordless handheld vacuum for quick cleanups.",
+    "price": 39.99,
+    "stock": 100,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "reviewer": "River Kelly",
+        "comment": "Convenient and easy to use.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://store.tineco.com/cdn/shop/files/tineco-pure-one-s11-smart-stickhandheld-vacuum-cleaner-319191.jpg?v=1720762688&width=1214"
+  },
+  {
+    "name": "Smart Scale",
+    "description": "Digital scale with body composition tracking.",
+    "price": 29.99,
+    "stock": 150,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "reviewer": "Skylar Lee",
+        "comment": "Accurate and helpful for my fitness goals.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61bAnOXDl7L._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "name": "Wireless HDMI Transmitter",
+    "description": "Transmits HDMI signals wirelessly up to 100 feet.",
+    "price": 119.99,
+    "stock": 50,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "reviewer": "Chris Johnson",
+        "comment": "Great for presentations and home setups.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/51dl8z2X2pL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Noise-Canceling Sleep Headband",
+    "description": "Comfortable headband with built-in Bluetooth speakers.",
+    "price": 39.99,
+    "stock": 200,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Taylor Morgan",
+        "comment": "Helps me fall asleep faster.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/51Mh9KTNXxL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Magnetic Phone Car Mount",
+    "description": "Universal magnetic mount for smartphones in cars.",
+    "price": 14.99,
+    "stock": 300,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "reviewer": "Jordan Carter",
+        "comment": "Super convenient and sturdy.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/51c8YNq0S7L._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "name": "Smart Wi-Fi Light Switch",
+    "description": "Control your lights remotely with this smart switch.",
+    "price": 24.99,
+    "stock": 150,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "reviewer": "Alex Walker",
+        "comment": "Works flawlessly with my smart home system.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://nexxt-test-resources.s3.amazonaws.com/media/img/banners-carrusel-nhe-s100-eng-2.jpg"
+  },
+  {
+    "name": "Cordless Electric Screwdriver",
+    "description": "Lightweight screwdriver with rechargeable battery.",
+    "price": 29.99,
+    "stock": 100,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "reviewer": "Casey Evans",
+        "comment": "Very handy for small home projects.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/915sfEug5CL.jpg"
+  },
+  {
+    "name": "Rechargeable LED Flashlight",
+    "description": "High-lumen flashlight with multiple brightness settings.",
+    "price": 19.99,
+    "stock": 220,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "reviewer": "Parker Brooks",
+        "comment": "Bright and reliable for camping trips.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://images.thdstatic.com/productImages/7adfd043-d504-4afb-b5b4-bd72e897d63a/svn/nitecore-handheld-flashlights-p20ix-64_600.jpg"
+  },
+  {
+    "name": "Digital Meat Thermometer",
+    "description": "Instant-read thermometer for cooking and grilling.",
+    "price": 14.99,
+    "stock": 180,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Drew Reed",
+        "comment": "Accurate and easy to use.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61fUKA2fwzL.jpg"
+  },
+  {
+    "name": "Portable Laptop Monitor",
+    "description": "15.6-inch full HD external monitor for laptops.",
+    "price": 199.99,
+    "stock": 40,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "reviewer": "Skylar Lane",
+        "comment": "Perfect for multitasking.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71+sJBlj32L.jpg"
+  },
+  {
+    "name": "Digital Kitchen Scale",
+    "description": "Precision scale for baking and cooking.",
+    "price": 19.99,
+    "stock": 250,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "reviewer": "Jamie Woods",
+        "comment": "Makes measuring ingredients a breeze.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://www.lemproducts.com/images/popup/1665_RHDigitalScale_WEB.jpg"
+  },
+  {
+    "name": "Smart Window Blinds",
+    "description": "Motorized blinds with remote and app control.",
+    "price": 299.99,
+    "stock": 15,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "reviewer": "Shawn Bell",
+        "comment": "Adds a modern touch to my home.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2023/09/smart-blinds-2048px-4546.jpg"
+  },
+  {
+    "name": "Travel Backpack with USB Port",
+    "description": "Durable backpack with built-in USB charging port.",
+    "price": 49.99,
+    "stock": 120,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Kelly West",
+        "comment": "Great for travel and everyday use.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/718gtjG7ivL.jpg"
+  },
+  {
+    "name": "Electric Milk Frother",
+    "description": "Compact frother for lattes and cappuccinos.",
+    "price": 24.99,
+    "stock": 80,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "reviewer": "Riley Morgan",
+        "comment": "Works well for my morning coffee.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://d9pl0lig74xnv.cloudfront.net/catalog/product/cache/91e9c011f0ac998e686df01a906b8401/1/2/12179-01.jpg"
+  },
+  {
+    "name": "Personal Blender",
+    "description": "Portable blender for smoothies and shakes.",
+    "price": 39.99,
+    "stock": 100,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "reviewer": "Harper Stone",
+        "comment": "Perfect for quick breakfast smoothies.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://www.seriouseats.com/thmb/WgM6aexMG-FJsx3FRpwq7M85GQc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/sea-primary-personal-blenders-rkilgore-23-1204582a2757454188669fcbdd9d71f0.jpeg"
+  },
+  {
+    "name": "Portable Folding Table",
+    "description": "Lightweight folding table for indoor and outdoor use.",
+    "price": 54.99,
+    "stock": 60,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "reviewer": "River Johnson",
+        "comment": "Easy to set up and very sturdy.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61mU+7VlqKL.jpg"
+  },
+  {
+    "name": "Electric Heated Blanket",
+    "description": "Soft blanket with adjustable heat settings.",
+    "price": 79.99,
+    "stock": 75,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Dylan Carter",
+        "comment": "Keeps me warm during cold nights.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/714as2b3UnL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "name": "UV Toothbrush Sanitizer",
+    "description": "Portable sanitizer for keeping toothbrushes germ-free.",
+    "price": 29.99,
+    "stock": 150,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "reviewer": "Chris Ray",
+        "comment": "Compact and easy to use.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://www.oclean.com/cdn/shop/products/3_f785758b-218a-4940-a242-25acf31f6eab.jpg?v=1693913790&width=1445"
+  },
+  {
+    "name": "Smart Bike Light",
+    "description": "Rear bike light with motion detection and app control.",
+    "price": 34.99,
+    "stock": 100,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "reviewer": "Taylor Bell",
+        "comment": "Adds safety and visibility for night rides.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://xoss.co/cdn/shop/products/2_f8d594f0-e900-470d-868c-d5af94c9cdc2.jpg?v=1637757298"
+  },
+  {
+    "name": "Compact Dish Rack",
+    "description": "Foldable dish rack for small kitchens.",
+    "price": 24.99,
+    "stock": 200,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "reviewer": "Casey Woods",
+        "comment": "Perfect for my tiny apartment.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://i5.walmartimages.com/seo/iSPECLE-Dish-Drying-Rack-Drainboard-Compact-Racks-Kitchen-Counter-Sink-Small-Drainer-Utensil-Holder-Drain-Spout-Black_1acacf33-ded0-408b-abe5-1663ab946b01.7ae91596b8fbc0bbe0b2b357ec318d1a.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+  },
+  {
+    "name": "Ergonomic Footrest",
+    "description": "Adjustable footrest for office chairs.",
+    "price": 34.99,
+    "stock": 130,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Parker Lane",
+        "comment": "Improved my comfort while working.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0705/9849/2464/files/6_4ff3cf30-dd22-4d7a-a592-2160178b9116.jpg?v=1719561899"
+  },
+  {
+    "name": "Cordless Hand Mixer",
+    "description": "Rechargeable hand mixer with multiple speed settings.",
+    "price": 59.99,
+    "stock": 90,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "reviewer": "Skylar West",
+        "comment": "Convenient and powerful for baking.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71mf6Gg1APL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "name": "Mini blender",
+    "description": "Rechargeable mini blender with multiple speed settings.",
+    "price": 20.99,
+    "stock": 49,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "reviewer": "Alex Gill",
+        "comment": "Convenient for instant blending.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/81rBNuaNbwL.jpg"
+  },
+  {
+    "name": "Smart Pet Feeder",
+    "description": "Automated pet feeder with portion control and app scheduling.",
+    "price": 99.99,
+    "stock": 50,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "reviewer": "Jordan Lee",
+        "comment": "Perfect for my busy schedule.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://www.teslasmart.com/data/images-xl/874-tesla-smart-pet-feeder-1920x1920-03.png"
+  },
+  {
+    "name": "Electric Wine Opener",
+    "description": "Cordless wine opener with foil cutter.",
+    "price": 29.99,
+    "stock": 200,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Alex King",
+        "comment": "Makes opening bottles effortless.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "http://www.rabbitwine.com/cdn/shop/files/Rabbit-5308659-AutomaticElectricCorkscrew-1260px_1.jpg?v=1697049826&width=2048"
+  },
+  {
+    "name": "Digital Drawing Tablet",
+    "description": "10-inch drawing tablet with pressure-sensitive stylus.",
+    "price": 129.99,
+    "stock": 75,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "reviewer": "Taylor Brooks",
+        "comment": "Fantastic for digital art.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/612WKre5PkL.jpg"
+  },
+  {
+    "name": "Cordless Electric Mop",
+    "description": "Spin mop with rechargeable battery for easy cleaning.",
+    "price": 89.99,
+    "stock": 60,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "reviewer": "Chris Morgan",
+        "comment": "Cleans thoroughly with minimal effort.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/718EM1+8K5L.jpg"
+  },
+  {
+    "name": "Mini Projector",
+    "description": "Portable projector with HDMI and USB support.",
+    "price": 149.99,
+    "stock": 40,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "reviewer": "Casey Taylor",
+        "comment": "Great for movie nights.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/618klqnYCGL.jpg"
+  },
+  {
+    "name": "Compact Air Fryer",
+    "description": "2-quart air fryer with digital controls.",
+    "price": 49.99,
+    "stock": 120,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Jamie West",
+        "comment": "Makes healthier meals quickly.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://www.foodandwine.com/thmb/KYgghOVUM9BofnmduyG-XtkULCk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/faw-product-dash-compact-rkilgore-53-1-a1341c03e9ee42548a2b3fc8908dbf3b.jpeg"
+  },
+  {
+    "name": "Electric Kettle",
+    "description": "1.7L kettle with fast boiling and auto shut-off.",
+    "price": 34.99,
+    "stock": 150,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "reviewer": "Drew Reed",
+        "comment": "Boils water quickly and looks sleek.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71zJShDoPsL.jpg"
+  },
+  {
+    "name": "Smart Doorbell Camera",
+    "description": "Wi-Fi doorbell with two-way audio and motion detection.",
+    "price": 99.99,
+    "stock": 80,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "reviewer": "Riley Carter",
+        "comment": "Improved my home security.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2023/09/smart-doorbell-camera-2048px-0033.jpg"
+  },
+  {
+    "name": "Electric Toothbrush",
+    "description": "Rechargeable toothbrush with multiple brushing modes.",
+    "price": 59.99,
+    "stock": 100,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "reviewer": "Shawn Bell",
+        "comment": "Leaves my teeth feeling super clean.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://static.independent.co.uk/2024/06/20/23/best%20electric%20toothbrush.png"
+  },
+  {
+    "name": "Portable Fan",
+    "description": "Rechargeable USB fan with adjustable speed settings.",
+    "price": 24.99,
+    "stock": 200,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "reviewer": "Harper Woods",
+        "comment": "Great for staying cool on hot days.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61ZJo9yHEkL.jpg"
+  },
+  {
+    "name": "UV Smartphone Sanitizer",
+    "description": "Compact UV sanitizer for phones and small gadgets.",
+    "price": 49.99,
+    "stock": 90,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "reviewer": "Jordan Stone",
+        "comment": "Easy to use and very effective.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "http://www.phonesoap.com/cdn/shop/products/AMZ-PS3-White-Cover.jpg?v=1692071128"
+  },
+  {
+    "name": "Waterproof Bluetooth Speaker",
+    "description": "Portable speaker with IPX7 waterproof rating.",
+    "price": 39.99,
+    "stock": 150,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Taylor Lane",
+        "comment": "Perfect for pool parties and outdoor use.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://ecoxgear.com/cdn/shop/files/DSC00438.jpg?v=1720805816&width=4203"
+  },
+  {
+    "name": "Smart Thermostat",
+    "description": "Wi-Fi thermostat with remote app control.",
+    "price": 179.99,
+    "stock": 30,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "reviewer": "Casey Johnson",
+        "comment": "Helps me save on energy bills.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2022/11/smartthermostats-2048px-3105.jpg"
+  },
+  {
+    "name": "Electric Grill",
+    "description": "Smokeless indoor grill with adjustable heat settings.",
+    "price": 99.99,
+    "stock": 70,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "reviewer": "Skylar West",
+        "comment": "Cooks evenly and is easy to clean.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://www.sencor.com/getmedia/6d485996-2fce-4d24-ba6f-f239a000649d/SBG-106BK.jpg.aspx"
+  },
+  {
+    "name": "Wireless Game Controller",
+    "description": "Ergonomic controller compatible with PC and consoles.",
+    "price": 49.99,
+    "stock": 120,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Chris Bell",
+        "comment": "Responsive and comfortable for long gaming sessions.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://www.mytrendyphone.eu/images/RGB-Wireless-Gaming-Controller-P05-PS4-Nintendo-Switch-21112022-01-p.webp"
+  },
+  {
+    "name": "Desk Organizer Set",
+    "description": "Multi-piece organizer set for office supplies.",
+    "price": 19.99,
+    "stock": 250,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "reviewer": "Dylan King",
+        "comment": "Keeps my desk neat and tidy.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71myCLc1UYL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "name": "Adjustable Dumbbells",
+    "description": "Compact dumbbells with adjustable weight settings.",
+    "price": 249.99,
+    "stock": 50,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "reviewer": "Parker Morgan",
+        "comment": "Great space saver for home workouts.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61jau6tusOL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Electric Food Processor",
+    "description": "Powerful food processor with multiple attachments.",
+    "price": 89.99,
+    "stock": 90,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Kelly West",
+        "comment": "Cuts prep time in half!",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/619XI5w0WvL.jpg"
+  },
+  {
+    "name": "Fitness Tracker Band",
+    "description": "Lightweight fitness band with heart rate monitor.",
+    "price": 29.99,
+    "stock": 150,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "reviewer": "Jamie Woods",
+        "comment": "Tracks my daily activity perfectly.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://www.mensjournal.com/.image/t_share/MjA0MjI5NzU5NTc0NjE1Njky/best-fitness-tracker-whoop.jpg"
+  },
+  {
+    "name": "Ergonomic Gaming Chair",
+    "description": "Comfortable gaming chair with adjustable armrests and lumbar support.",
+    "price": 199.99,
+    "stock": 25,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "reviewer": "River Carter",
+        "comment": "Feels great for long hours of gaming.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/81W3NDKh05L.jpg"
+  },
+  {
+    "name": "Foldable Electric Scooter",
+    "description": "Lightweight electric scooter with a 20-mile range.",
+    "price": 349.99,
+    "stock": 30,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "reviewer": "Alex Smith",
+        "comment": "Perfect for commuting!",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "http://fluidfreeride.com/cdn/shop/articles/Best_folding_electric_scooters.jpg?v=1712181148"
+  },
+  {
+    "name": "Wireless Earbuds",
+    "description": "Noise-canceling earbuds with a charging case.",
+    "price": 69.99,
+    "stock": 300,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "reviewer": "Jordan Taylor",
+        "comment": "Great sound quality and battery life.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MUVX3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1713296133678"
+  },
+  {
+    "name": "Portable Solar Charger",
+    "description": "Foldable solar charger for smartphones and tablets.",
+    "price": 59.99,
+    "stock": 100,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Taylor Carter",
+        "comment": "Ideal for camping trips.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71ENU+RZhAL.jpg"
+  },
+  {
+    "name": "Motion-Activated Night Light",
+    "description": "Battery-powered night light with motion detection.",
+    "price": 14.99,
+    "stock": 200,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "reviewer": "Drew Morgan",
+        "comment": "Works perfectly in the hallway.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61wZzwQTrHL.jpg"
+  },
+  {
+    "name": "Smart Air Purifier",
+    "description": "Wi-Fi-enabled air purifier with HEPA filter.",
+    "price": 129.99,
+    "stock": 60,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "reviewer": "Harper West",
+        "comment": "Noticeable improvement in air quality.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://smartairfilters.com/wordpress/wp-content/uploads/sites/8/2020/12/sqair-clean-air-never-looked-so-good-daraz-bangladesh-square.jpg"
+  },
+  {
+    "name": "Adjustable Standing Desk",
+    "description": "Electric standing desk with height memory settings.",
+    "price": 399.99,
+    "stock": 20,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "reviewer": "Skylar Lane",
+        "comment": "Very sturdy and easy to adjust.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://www.victortech.com/wp-content/uploads/dcx760g--06-660x660.png"
+  },
+  {
+    "name": "Cordless Hair Clippers",
+    "description": "Rechargeable clippers with multiple attachments.",
+    "price": 49.99,
+    "stock": 150,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Chris Johnson",
+        "comment": "Perfect for quick trims at home.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/81wx9EQn75L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Wireless Charging Mouse Pad",
+    "description": "Mouse pad with built-in wireless charging for devices.",
+    "price": 39.99,
+    "stock": 180,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "reviewer": "Jamie Reed",
+        "comment": "Convenient and functional.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/812ciMZCfHL.jpg"
+  },
+  {
+    "name": "Portable Coffee Maker",
+    "description": "Compact coffee maker for single servings.",
+    "price": 49.99,
+    "stock": 100,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "reviewer": "Casey Lee",
+        "comment": "Brews great coffee on the go.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://ae01.alicdn.com/kf/S2fe77ca09935465c8c5abd042aab27a9E/HiBREW-Wireless-Electric-Portable-Espresso-Coffee-Machine-for-Car-Home-Camping-Coffee-Maker-Fit-Nespresso-Dolce.jpg"
+  },
+  {
+    "name": "Bluetooth Keyboard",
+    "description": "Slim wireless keyboard with rechargeable battery.",
+    "price": 34.99,
+    "stock": 220,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Taylor King",
+        "comment": "Comfortable typing and long battery life.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71a3I0mn8aS.jpg"
+  },
+  {
+    "name": "Collapsible Water Bottle",
+    "description": "Reusable, BPA-free collapsible water bottle.",
+    "price": 19.99,
+    "stock": 300,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "reviewer": "Riley Brooks",
+        "comment": "Saves space and is super durable.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://www.travelandleisure.com/thmb/NbWRfVKhqOW_XjJ2rZl4-GV3XPw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/collapsible-water-bottles-tout-9ef87d8061814e2a9ec8e9c1921a037a.jpg"
+  },
+  {
+    "name": "Electric Heated Mug",
+    "description": "Temperature-controlled mug with long-lasting battery.",
+    "price": 79.99,
+    "stock": 90,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Parker Lane",
+        "comment": "Keeps my coffee hot all morning.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/619JK093rdL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "name": "Smart Plant Monitor",
+    "description": "Bluetooth-enabled plant sensor for moisture and sunlight.",
+    "price": 29.99,
+    "stock": 120,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "reviewer": "Jordan Bell",
+        "comment": "Helps me take better care of my plants.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://i.ytimg.com/vi/PTJ9sAk2c2I/maxresdefault.jpg"
+  },
+  {
+    "name": "Digital Photo Frame",
+    "description": "Wi-Fi photo frame with a 10-inch display.",
+    "price": 139.99,
+    "stock": 50,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "reviewer": "Chris Walker",
+        "comment": "A great way to display memories.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61CvqN5QEML.jpg"
+  },
+  {
+    "name": "Wireless Charging Power Bank",
+    "description": "Portable power bank with wireless charging capability.",
+    "price": 59.99,
+    "stock": 80,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "reviewer": "Jamie Morgan",
+        "comment": "Very handy during travel.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61SE0YCqKYS.jpg"
+  },
+  {
+    "name": "Digital Alarm Clock",
+    "description": "Alarm clock with sunrise simulation and FM radio.",
+    "price": 39.99,
+    "stock": 150,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Drew West",
+        "comment": "Wakes me up gently every morning.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2021/04/alarmclocks-2048px-0S1A7721.jpg"
+  },
+  {
+    "name": "Outdoor String Lights",
+    "description": "Waterproof LED string lights for patios.",
+    "price": 49.99,
+    "stock": 200,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "reviewer": "Taylor Carter",
+        "comment": "Adds a cozy vibe to my backyard.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://eu-cdn.nanoleaf.me/assets/img/products/shop/omsl/smk/15/3-outdoor-string-lights-shop-mobile@1x.jpg"
+  },
+  {
+    "name": "Multi-Device Charging Hub",
+    "description": "6-port charging hub with fast-charging technology.",
+    "price": 34.99,
+    "stock": 140,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "reviewer": "Harper Johnson",
+        "comment": "Charges all my gadgets quickly.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61b+7BEDD+L._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "name": "Portable Steamer",
+    "description": "Compact steamer for clothes and upholstery.",
+    "price": 29.99,
+    "stock": 160,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Casey Lee",
+        "comment": "Works great for removing wrinkles.",
+        "rating": 5
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61otWZA6uZL.jpg"
+  },
+  {
+    "name": "Electric Rice Cooker",
+    "description": "2-cup rice cooker with keep-warm function.",
+    "price": 34.99,
+    "stock": 110,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "reviewer": "Kelly Brooks",
+        "comment": "Perfect size for small meals.",
+        "rating": 4
+      }
+    ],
+    "imageUrl": "https://i5.walmartimages.com/seo/BLACK-DECKER-3-Cup-Electric-Rice-Cooker-with-Keep-Warm-Function-White-RC503_95e1bab2-dbb6-4cb2-bff1-3844b8cfe66c_1.17c99e2c2fcddc9bf061de3d721698c2.jpeg"
   }
 ]
