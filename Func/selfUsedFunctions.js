@@ -18,49 +18,6 @@ function createUpdatedAt(createdAt) {
   return new Date(randomTime);
 }
 
-function createImage(firstName = "John", lastName = "Doe", size = 200) {
-  // Helper function to generate a random dark/vibrant color
-  function getRandomBackgroundColor() {
-    const colors = [
-      "#4CAF50", // Green
-      "#FF5722", // Orange
-      "#3F51B5", // Blue
-      "#9C27B0", // Purple
-      "#795548", // Brown
-      "#FF9800", // Amber
-      "#009688", // Teal
-      "#2196F3", // Light Blue
-      "#673AB7", // Deep Purple
-      "#E91E63", // Pink
-      "#607D8B", // Blue Grey
-    ];
-    return colors[Math.floor(Math.random() * colors.length)];
-  }
-
-  // Create a canvas element
-  const canvas = document.createElement("canvas");
-  canvas.width = size;
-  canvas.height = size;
-
-  const ctx = canvas.getContext("2d");
-
-  // Draw background color
-  const bgColor = getRandomBackgroundColor();
-  ctx.fillStyle = bgColor;
-  ctx.fillRect(0, 0, size, size);
-
-  // Draw initials
-  const initials = `${firstName[0].toUpperCase()}${lastName[0].toUpperCase()}`;
-  ctx.fillStyle = "#FFFFFF"; // White text
-  ctx.font = `${size * 0.4}px Arial`;
-  ctx.textAlign = "center";
-  ctx.textBaseline = "middle";
-  ctx.fillText(initials, size / 2, size / 2);
-
-  // Return the image as a data URL
-  return canvas.toDataURL("image/png");
-}
-
 function createUserName(firstName = "John", lastName = "Doe") {
   const randomNumber = Math.floor(Math.random() * 100);
 
@@ -144,7 +101,6 @@ function createPhoneNumber(code = "1") {
 module.exports = {
   createCreatedAt,
   createUpdatedAt,
-  createImage,
   createUserName,
   createEmail,
   createAge,
