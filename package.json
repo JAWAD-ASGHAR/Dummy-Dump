@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Get the dummy data you need for your testing",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

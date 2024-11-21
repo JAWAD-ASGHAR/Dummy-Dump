@@ -1,6 +1,7 @@
 const names = require("../Data/names.json");
 const address = require("../Data/address.json");
 const professions = require("../Data/profession.json");
+const products = require("../Data/products.json");
 
 function getRandomItem(array) {
   return array[Math.floor(Math.random() * array.length)];
@@ -116,7 +117,40 @@ function getPhoneNumber(code = "1") {
   return `${countryCode} (${areaCode}) ${centralOfficeCode}-${lineNumber}`;
 }
 
-export {
+function getProduct() {
+  return getRandomItem(products);
+}
+
+function getId() {
+  let text = "";
+  const possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+
+  for (let i = 0; i < 10; i++)
+    text += possible.charAt(Math.floor(Math.random() * possible.length));
+
+  return text;
+}
+
+function getNumber() {
+  return Math.floor(1000000 + Math.random() * 9000000);
+}
+
+function getBoolean() {
+  return Math.random() >= 0.5;
+}
+
+function getStatus() {
+  const status = ["pending", "processing", "shipped", "delivered", "cancelled"];
+  return getRandomItem(status);
+}
+
+function getPrice() {
+  const price = Math.floor(100 + Math.random() * 900);
+  const cents = Math.floor(Math.random() * 100);
+  return `${price}.${cents}`;
+}
+
+module.exports = {
   getFirstName,
   getLastName,
   getUserName,
@@ -127,5 +161,11 @@ export {
   getRole,
   getProfession,
   getPhoneNumber,
+  getProduct,
+  getId,
+  getNumber,
+  getPrice,
+  getStatus,
+  getBoolean
 };
 

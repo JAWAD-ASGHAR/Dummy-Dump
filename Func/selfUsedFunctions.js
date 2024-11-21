@@ -6,6 +6,10 @@ function createCreatedAt() {
   return new Date(randomTime);
 }
 
+function getRandomItem(array) {
+  return array[Math.floor(Math.random() * array.length)];
+}
+
 function createUpdatedAt(createdAt) {
   const start = new Date(createdAt.getTime()); // Start at createdAt date
   const end = new Date(); // End date: Today's date
@@ -137,7 +141,7 @@ function createPhoneNumber(code = "1") {
   return `${countryCode} (${areaCode}) ${centralOfficeCode}-${lineNumber}`;
 }
 
-export {
+module.exports = {
   createCreatedAt,
   createUpdatedAt,
   createImage,
@@ -146,3 +150,4 @@ export {
   createAge,
   createPhoneNumber,
 };
+

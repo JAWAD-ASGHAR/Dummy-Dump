@@ -1,118 +1,146 @@
-import {
+const {
+  getAddress,
   getDateOfBirth,
   getEmail,
   getFirstName,
+  getId,
   getLastName,
   getPhoneNumber,
+  getPrice,
+  getProduct,
   getProfession,
   getRole,
+  getStatus,
   getUserName,
-} from "./Func/publicUseFunctions.js";
-import {
+} = require("./Func/publicUseFunctions.js");
+const {
+  createAge,
   createCreatedAt,
   createEmail,
+  createUpdatedAt,
   createUserName,
-} from "./Func/selfUsedFunctions.js";
+} = require("./Func/selfUsedFunctions.js");
 
-function dumpFirstName(length) {
-  return length > 0 ? Array.from({ length }, () => getFirstName()) : [];
+function dumpFirstName(length = 3) {
+  return Array.from({ length }, () => getFirstName());
 }
 
-function dumpLastName(length) {
-  return length > 0 ? Array.from({ length }, () => getLastName()) : [];
+function dumpLastName(length = 3) {
+  return Array.from({ length }, () => getLastName());
 }
 
-function dumpFullName(length) {
-  return length > 0
-    ? Array.from({ length }, () => `${getFirstName()} ${getLastName()}`)
-    : [];
+function dumpFullName(length = 3) {
+  return Array.from({ length }, () => `${getFirstName()} ${getLastName()}`);
 }
 
-function dumpUsername(length) {
-  return length > 0 ? Array.from({ length }, () => getUserName()) : [];
+function dumpUsername(length = 3) {
+  return Array.from({ length }, () => getUserName());
 }
 
-function dumpEmail(length) {
-  return length > 0 ? Array.from({ length }, () => getEmail()) : [];
+function dumpEmail(length = 3) {
+  return Array.from({ length }, () => getEmail());
 }
 
-function dumpAddress(length) {
-  return length > 0 ? Array.from({ length }, () => getEmail()) : [];
+function dumpAddress(length = 3) {
+  return Array.from({ length }, () => getEmail());
 }
 
-function dumpDOB(length) {
-  return length > 0 ? Array.from({ length }, () => getDateOfBirth()) : [];
+function dumpDOB(length = 3) {
+  return Array.from({ length }, () => getDateOfBirth());
 }
 
-function dumpRole(length) {
-  return length > 0 ? Array.from({ length }, () => getRole()) : [];
+function dumpRole(length = 3) {
+  return Array.from({ length }, () => getRole());
 }
 
-function dumpProfession(length) {
-  return length > 0 ? Array.from({ length }, () => getProfession()) : [];
+function dumpProfession(length = 3) {
+  return Array.from({ length }, () => getProfession());
 }
 
-function dumpUser(length) {
-  return length > 0
-    ? Array.from({ length }, (_, index) => {
+function dumpPhoneNumber(length = 3) {
+  return Array.from({ length }, () => getPhoneNumber());
+}
+
+function dumpId(length = 3) {
+  return Array.from({ length }, (_, index) => index + 1);
+}
+
+function dumpUser(length = 3) {
+  return Array.from({ length }, (_, index) => {
+    const id = index + 1;
+    const firstName = getFirstName();
+    const lastName = getLastName();
+    const DOB = getDateOfBirth();
+    const createdAt = createCreatedAt();
+    return {
+      id,
+      firstName,
+      lastName,
+      username: createUserName(firstName, lastName),
+      email: createEmail(firstName, lastName),
+      fullName: `${firstName} ${lastName}`,
+      address: getAddress(),
+      phone: getPhoneNumber(),
+      dateOfBirth: DOB.toDateString(),
+      age: createAge(DOB),
+      role: getRole(),
+      createdAt,
+      updatedAt: createUpdatedAt(createdAt),
+    };
+  });
+}
+
+function dumpPrice(length = 3) {
+  return Array.from({ length }, () => getPrice());
+}
+
+function dumpOrder(length = 3) {
+  return Array.from({ length }, (_, index) => {
+    const id = index + 1;
+    const createdAt = createCreatedAt();
+    return {
+      orderId: id,
+      userId: getUserName(),
+      status: getStatus(),
+      name: getProduct().name,
+      price: getProduct().price,
+      address: getAddress(),
+      productId: getId(),
+      createdAt,
+      deliveryDate: createUpdatedAt(createdAt),
+    };
+  });
+}
+
+function dumpProduct(length = 3) {
+    return Array.from({ length }, (_, index) => {
         const id = index + 1;
-        const firstName = getFirstName();
-        const lastName = getLastName();
-        const DOB = getDateOfBirth();
         const createdAt = createCreatedAt();
         return {
           id,
-          firstName,
-          lastName,
-          username: createUserName(firstName, lastName),
-          email: createEmail(firstName, lastName),
-          fullName: `${firstName} ${lastName}`,
-          address: getAddress(),
-          phone: getPhoneNumber(),
-          dateOfBirth: DOB.toDateString(),
-          age: createAge(DOB),
-          role: getRole(),
+          product: getProduct(),
           createdAt,
           updatedAt: createUpdatedAt(createdAt),
         };
-      })
-    : [];
+      });
 }
 
-function dumpProduct() {
-    return length > 0
-    ? Array.from({ length }, (_, index) => {
-        const id = index + 1;
-        
-        const createdAt = createCreatedAt();
-        return {
-          id,
-          firstName,
-          lastName,
-          username: createUserName(firstName, lastName),
-          email: createEmail(firstName, lastName),
-          fullName: `${firstName} ${lastName}`,
-          address: getAddress(),
-          phone: getPhoneNumber(),
-          dateOfBirth: DOB.toDateString(),
-          age: createAge(DOB),
-          role: getRole(),
-          createdAt,
-          updatedAt: createUpdatedAt(createdAt),
-        };
-      })
-    : [];
-}
 
 module.exports = {
   dumpFirstName,
   dumpLastName,
+  dumpFullName,
   dumpUsername,
   dumpEmail,
-  dumpFullName,
   dumpAddress,
   dumpDOB,
   dumpRole,
   dumpProfession,
+  dumpPhoneNumber,
+  dumpId,
   dumpUser,
+  dumpPrice,
+  dumpOrder,
+  dumpProduct,
 };
+
