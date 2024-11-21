@@ -1,6 +1,6 @@
 {
   "name": "dummy-dump",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "Get the dummy data you need for your testing",
   "main": "index.js",
   "scripts": {
@@ -24,8 +24,5 @@
   "bugs": {
     "url": "https://github.com/JAWAD-ASGHAR/Dummy-Dump/issues"
   },
-  "homepage": "https://github.com/JAWAD-ASGHAR/Dummy-Dump#readme",
-  "dependencies": {
-    "axios": "^1.7.7"
-  }
+  "homepage": "https://github.com/JAWAD-ASGHAR/Dummy-Dump#readme"
 }
