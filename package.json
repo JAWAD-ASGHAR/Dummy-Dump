@@ -1,6 +1,6 @@
 {
   "name": "dummy-dump",
-  "version": "1.0.0",
+  "version": "1.1.2",
   "description": "Get the dummy data you need for your testing",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,12 @@
   },
   "keywords": [
     "dummy",
-    "data"
+    "data",
+    "generator",
+    "test",
+    "development",
+    "faker",
+    "json"
   ],
   "author": "Jawad Asghar",
   "license": "ISC",

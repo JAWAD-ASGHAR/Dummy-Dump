@@ -4,20 +4,27 @@ Overview
 ===================
 dummy-dump is a Node.js utility package for generating dummy data. Whether you need user profiles, orders, or products, this tool simplifies data generation for development and testing purposes.
 
+
 Functions
+===============
+dumpFirstName, 
+dumpLastName, 
+dumpFullName, 
+dumpUsername, 
+dumpEmail, 
+dumpAddress, 
+dumpDOB, 
+dumpRole, 
+dumpProfession, 
+dumpPhoneNumber, 
+dumpId, 
+dumpUser
+
+
+Example
 ================
-dumpFirstName(length): Returns an array of dummy first names.
-dumpLastName(length): Returns an array of dummy last names.
-dumpFullName(length): Returns an array of dummy full names.
-dumpUsername(length): Returns an array of dummy usernames.
-dumpEmail(length): Returns an array of dummy emails.
-dumpAddress(length): Returns an array of dummy addresses.
-dumpDOB(length): Returns an array of dummy dates of birth.
-dumpRole(length): Returns an array of dummy user roles.
-dumpProfession(length): Returns an array of dummy professions.
-dumpPhoneNumber(length): Returns an array of dummy phone numbers.
-dumpId(length): Returns an array of sequential IDs.
-dumpUser(length): Returns an array of full dummy user profiles.
+dumpUser(length): 
+  Returns an array of full dummy user profiles.
 
 
 Product-Related Functions
